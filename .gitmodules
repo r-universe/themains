@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "virustotal"]
+	path = virustotal
+	url = https://github.com/themains/virustotal
+	shallow = true
+	registered = true
